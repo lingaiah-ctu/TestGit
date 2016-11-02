@@ -5,13 +5,6 @@ This is first file.
 
 This is second file.
 
-This is third  file.
-
-
-
-===================
-
-
 ======================
 
 This is first file.
@@ -19,6 +12,8 @@ This is first file.
 This is second file.
 
 This is third  file.
+
+Welcome to Git Source Code Management
 
 
 
